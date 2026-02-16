@@ -46,7 +46,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"autobus",
                 "ligne1":"2",
-                "ligne2":"13 interligne 5"
+                "ligne2":"13 et 5"
             },
             "4":{
                 "priseSer":"5 heure 48",
@@ -77,7 +77,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-2",
-                "ligne1":"4 interligne 11",
+                "ligne1":"4 et 11",
                 "ligne2":"2"
             },
             "6":{
@@ -174,7 +174,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-3",
                 "ligne1":"10",
-                "ligne2":"5 interligne 13"
+                "ligne2":"5 et 13"
             },
             "12":{
                 "priseSer":"5 heure 55",
@@ -221,8 +221,8 @@
                 "vehiAMidi":"",
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-4",
-                "ligne1":"11 interligne 4",
-                "ligne2":"4 interligne 11"
+                "ligne1":"11 et 4",
+                "ligne2":"4 et 11"
             },
             "15":{
                 "priseSer":"6 heure ",
@@ -269,8 +269,8 @@
                 "vehiAMidi":"",
                 "lieuFin": "centre-vile",
                 "vehiFin":"volt",
-                "ligne1":"5 interligne 13",
-                "ligne2":"4 interligne 11"
+                "ligne1":"5 et 13",
+                "ligne2":"4 et 11"
             },
             "18":{
                 "priseSer":"6 heure 4",
@@ -286,7 +286,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-1",
                 "ligne1":"13 inteligne 5",
-                "ligne2":"13 interligne 5"
+                "ligne2":"13 et 5"
             },
             "19":{
                 "priseSer":"6 heure 4",
@@ -302,7 +302,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-2",
                 "ligne1":"25",
-                "ligne2":"4 interligne 11"
+                "ligne2":"4 et 11"
             },
             "20":{
                 "priseSer":"6 heure 4",
@@ -317,7 +317,7 @@
                 "vehiAMidi":"bolt-3",
                 "lieuFin": "galeries du cap",
                 "vehiFin":"bolt-3",
-                "ligne1":"11 interligne 4",
+                "ligne1":"11 et 4",
                 "ligne2":"8"
             },
             "21":{
@@ -350,7 +350,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"autobus",
                 "ligne1":"10",
-                "ligne2":"13 interligne 5"
+                "ligne2":"13 et 5"
             },
             "23":{
                 "priseSer":"6 heure 4",
@@ -365,8 +365,8 @@
                 "vehiAMidi":"",
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-3",
-                "ligne1":"4 interligne 11",
-                "ligne2":"4 interligne 11"
+                "ligne1":"4 et 11",
+                "ligne2":"4 et 11"
             },
             "24":{
                 "priseSer":"6 heure 4",
@@ -381,7 +381,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "centre-vile",
                 "vehiFin":"volt",
-                "ligne1":"5 interligne 13",
+                "ligne1":"5 et 13",
                 "ligne2":"2"
             },
             "25":{
@@ -462,7 +462,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"autobus",
                 "ligne1":"25",
-                "ligne2":"11 interligne 4"
+                "ligne2":"11 et 4"
             },
             "30":{
                 "priseSer":"9 heure 3",
@@ -509,8 +509,8 @@
                 "vehiAMidi":"",
                 "lieuFin": "terminus des Légendes",
                 "vehiFin":"autobus",
-                "ligne1":"4 interligne 11",
-                "ligne2":"11 interligne 4"
+                "ligne1":"4 et 11",
+                "ligne2":"11 et 4"
             },
             "33":{
                 "priseSer":"10 heure 13",
@@ -525,7 +525,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"autobus",
-                "ligne1":"5 interligne 13",
+                "ligne1":"5 et 13",
                 "ligne2":"50"
             },
             "34":{
@@ -541,7 +541,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"autobus",
-                "ligne1":"5 interligne 13",
+                "ligne1":"5 et 13",
                 "ligne2":"9"
             },
             "35":{
@@ -573,8 +573,8 @@
                 "vehiAMidi":"",
                 "lieuFin": "centre-vile",
                 "vehiFin":"autobus",
-                "ligne1":"5 interligne 13",
-                "ligne2":"13 interligne 5"
+                "ligne1":"5 et 13",
+                "ligne2":"13 et 5"
             },
             "37":{
                "priseSer":"13 heure 20",
@@ -605,8 +605,8 @@
                 "vehiAMidi":"",
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-3",
-                "ligne1":"5 interligne 13",
-                "ligne2":"4 interligne 11"
+                "ligne1":"5 et 13",
+                "ligne2":"4 et 11"
             },
             "39":{
                 "priseSer":"13 heure 56",
@@ -686,7 +686,7 @@
                 "lieuFin": "Papineau, après Matteau",
                 "vehiFin":"autobus",
                 "ligne1":"60",
-                "ligne2":"5 interligne 13"
+                "ligne2":"5 et 13"
             },
             "44":{
                 "priseSer":"15 heure 36",
@@ -702,7 +702,7 @@
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"autobus",
                 "ligne1":"2",
-                "ligne2":"5 interligne 13"
+                "ligne2":"5 et 13"
             },
             "45":{
                 "priseSer":"15 heure 35",
@@ -734,7 +734,7 @@
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"autobus",
                 "ligne1":"13 inteligne 5",
-                "ligne2":"26 interligne 50"
+                "ligne2":"26 et 50"
             },
             "47":{
                 "priseSer":"16 heure 6",
@@ -813,8 +813,8 @@
                 "vehiAMidi":"",
                 "lieuFin": "terminus des Légendes",
                 "vehiFin":"autobus",
-                "ligne1":"4 interligne 11",
-                "ligne2":"4 interligne 11"
+                "ligne1":"4 et 11",
+                "ligne2":"4 et 11"
             },
             "52":{
                 "priseSer":"16 heure 14",
@@ -830,7 +830,7 @@
                 "lieuFin": "district 55",
                 "vehiFin":"autobus",
                 "ligne1":"8",
-                "ligne2":"4 interligne 11"
+                "ligne2":"4 et 11"
             },
             "53":{
                 "priseSer":"16 heure 12",
@@ -861,7 +861,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "galeries du cap",
                 "vehiFin":"autobus",
-                "ligne1":"5 interligne 13",
+                "ligne1":"5 et 13",
                 "ligne2":"60"
             }
     },
@@ -880,7 +880,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"autobus",
                 "ligne1":"25",
-                "ligne2":"50 interligne 26"
+                "ligne2":"50 et 26"
             },
             "2":{
                 "priseSer":"5 heure 47",
@@ -911,7 +911,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-3",
-                "ligne1":"4 interligne 11",
+                "ligne1":"4 et 11",
                 "ligne2":"10"
             },
             "4":{
@@ -944,7 +944,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-4",
                 "ligne1":"2",
-                "ligne2":"5 interligne 13"
+                "ligne2":"5 et 13"
             },
             "6":{
                 "priseSer":"5 heure 50",
@@ -992,7 +992,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-2",
                 "ligne1":"16",
-                "ligne2":"5 interligne 13"
+                "ligne2":"5 et 13"
             },
             "9":{
                 "priseSer":"5 heure 53",
@@ -1007,7 +1007,7 @@
                 "vehiAMidi":"bolt-3",
                 "lieuFin": "Terminus Fusey",
                 "vehiFin":"bolt-3",
-                "ligne1":"11 interligne 4",
+                "ligne1":"11 et 4",
                 "ligne2":"12"
             },
             "10":{
@@ -1024,7 +1024,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-3",
                 "ligne1":"13 inteligne 5",
-                "ligne2":"4 interligne 11"
+                "ligne2":"4 et 11"
             },
             "11":{
                 "priseSer":"5 heure 55",
@@ -1055,7 +1055,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "Carrefour Trois-Rivères-Ouest",
                 "vehiFin":"autobus",
-                "ligne1":"5 interligne 13",
+                "ligne1":"5 et 13",
                 "ligne2":"6"
             },
             "13":{
@@ -1087,7 +1087,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"bolt-2",
-                "ligne1":"26 interligne 50",
+                "ligne1":"26 et 50",
                 "ligne2":"60"
             },
             "15":{
@@ -1103,7 +1103,7 @@
                 "vehiAMidi":"bolt-1",
                 "lieuFin": "galeries du cap",
                 "vehiFin":"bolt-1",
-                "ligne1":"11 interligne 4",
+                "ligne1":"11 et 4",
                 "ligne2":"8"
             },
             "16":{
@@ -1152,7 +1152,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-4",
                 "ligne1":"2",
-                "ligne2":"4 interligne 11"
+                "ligne2":"4 et 11"
             },
             "19":{
                 "priseSer":"14 heure 8",
@@ -1167,8 +1167,8 @@
                 "vehiAMidi":"bolt-4",
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"autobus",
-                "ligne1":"4 interligne 11",
-                "ligne2":"26 interligne 50"
+                "ligne1":"4 et 11",
+                "ligne2":"26 et 50"
             },
             "20":{
                 "priseSer":"14 heure 8",
@@ -1183,7 +1183,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "Gilles-Lupien, boulevard Parent",
                 "vehiFin":"autobus",
-                "ligne1":"11 interligne 4",
+                "ligne1":"11 et 4",
                 "ligne2":"25"
             },
             "21":{
@@ -1199,7 +1199,7 @@
                 "vehiAMidi":"bolt-2",
                 "lieuFin": "Église Saint-Louis-de-France",
                 "vehiFin":"autobus",
-                "ligne1":"5 interligne 13",
+                "ligne1":"5 et 13",
                 "ligne2":"12"
             },
             "22":{
@@ -1263,7 +1263,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "galeries du cap",
                 "vehiFin":"autobus",
-                "ligne1":"26 interligne 50",
+                "ligne1":"26 et 50",
                 "ligne2":"60"
             },
             "26":{
@@ -1280,7 +1280,7 @@
                 "lieuFin": "Papineau, après Matteau",
                 "vehiFin":"autobus",
                 "ligne1":"16",
-                "ligne2":"5 interligne 13"
+                "ligne2":"5 et 13"
             },
             "27":{
                 "priseSer":"15 heure 39",
@@ -1296,7 +1296,7 @@
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"autobus",
                 "ligne1":"60",
-                "ligne2":"5 interligne 13"
+                "ligne2":"5 et 13"
             },
             "28":{
                 "priseSer":"16 heure 18",
@@ -1312,7 +1312,7 @@
                 "lieuFin": "district 55",
                 "vehiFin":"autobus",
                 "ligne1":"2",
-                "ligne2":"4 interligne 11"
+                "ligne2":"4 et 11"
             },
             "29":{
                 "priseSer":"16 heure 18",
@@ -1344,7 +1344,7 @@
                 "lieuFin": "terminus des Légendes",
                 "vehiFin":"autobus",
                 "ligne1":"6",
-                "ligne2":"11 interligne 4"
+                "ligne2":"11 et 4"
             },
             "31":{
                 "priseSer":"17 heure 23",
@@ -1359,7 +1359,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "des Roselins, des prairies",
                 "vehiFin":"autobus",
-                "ligne1":"11 interligne 4",
+                "ligne1":"11 et 4",
                 "ligne2":"10"
             },
             "32":{
@@ -1396,7 +1396,7 @@
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"autobus",
                 "ligne1":"89",
-                "ligne2":"13 interligne 5"
+                "ligne2":"13 et 5"
             },
             "2":{
                 "priseSer":"8 heure 8",
@@ -1412,7 +1412,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-4",
                 "ligne1":"25",
-                "ligne2":"13 interligne 5"
+                "ligne2":"13 et 5"
             },
             "3":{
                 "priseSer":"8 heure 12",
@@ -1444,7 +1444,7 @@
                 "lieuFin": "centre-vile",
                 "vehiFin":"bolt-1",
                 "ligne1":"10",
-                "ligne2":"4 interligne 11"
+                "ligne2":"4 et 11"
             },
             "5":{
                 "priseSer":"8 heure 16",
@@ -1460,7 +1460,7 @@
                 "lieuFin": "Terminus UQTR",
                 "vehiFin":"autobus",
                 "ligne1":"12",
-                "ligne2":"26 interligne 50"
+                "ligne2":"26 et 50"
             },
             "6":{
                 "priseSer":"8 heure 18",
@@ -1475,8 +1475,8 @@
                 "vehiAMidi":"",
                 "lieuFin": "district 55",
                 "vehiFin":"autobus",
-                "ligne1":"4 interligne 11",
-                "ligne2":"4 interligne 11"
+                "ligne1":"4 et 11",
+                "ligne2":"4 et 11"
             },
             "7":{
                 "priseSer":"8 heure 19",
@@ -1539,7 +1539,7 @@
                 "vehiAMidi":"bolt-1",
                 "lieuFin": "de Grandmont, st-Maurice",
                 "vehiFin":"autobus",
-                "ligne1":"11 interligne 4",
+                "ligne1":"11 et 4",
                 "ligne2":"8"
             },
             "11":{
@@ -1587,7 +1587,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "Boisclair, Parc Roger-Guilbault",
                 "vehiFin":"autobus",
-                "ligne1":"5 interligne 13",
+                "ligne1":"5 et 13",
                 "ligne2":"2"
             },
             "14":{
@@ -1603,7 +1603,7 @@
                 "vehiAMidi":"bolt-2",
                 "lieuFin": "Carrefour Trois-Rivères-Ouest",
                 "vehiFin":"autobus",
-                "ligne1":"26 interligne 50",
+                "ligne1":"26 et 50",
                 "ligne2":"6"
             },
             "15":{
@@ -1620,7 +1620,7 @@
                 "lieuFin": "Papineau, après Matteau",
                 "vehiFin":"autobus",
                 "ligne1":"10",
-                "ligne2":"13 interligne 5"
+                "ligne2":"13 et 5"
             },
             "16":{
                 "priseSer":"11 heure 13",
@@ -1636,7 +1636,7 @@
                 "lieuFin": "terminus des Légendes",
                 "vehiFin":"autobus",
                 "ligne1":"25",
-                "ligne2":"4 interligne 11"
+                "ligne2":"4 et 11"
             },
             "17":{
                 "priseSer":"11 heure 26",
@@ -1700,3 +1700,4 @@
             }
 
 }
+
