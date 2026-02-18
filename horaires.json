@@ -1,5 +1,5 @@
 {
-    "semaine":{
+    "Semaine":{
             "1":{
                 "priseSer":"5:42",
                 "finSer": "13:43",
@@ -865,7 +865,7 @@
                 "ligne2":"60"
             }
     },
-    "samedi":{
+    "Samedi":{
             "1":{
                 "priseSer":"5:36",
                 "finSer": "15:22",
@@ -1381,7 +1381,7 @@
             
         
     },
-    "dimanche":{
+    "Dimanche":{
             "1":{
                 "priseSer":"8:",
                 "finSer": "19:34",
@@ -1700,6 +1700,7 @@
             }
 
 }
+
 
 
 
