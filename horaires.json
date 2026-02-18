@@ -125,7 +125,7 @@
                 "vehiAMidi":"CV",
                 "lieuFin": "CV",
                 "vehiFin":"Autobus",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"26"
             },
             "9":{
@@ -285,7 +285,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "CV",
                 "vehiFin":"BOLT-1",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"13 et 5"
             },
             "19":{
@@ -733,7 +733,7 @@
                 "vehiAMidi":"Autobus",
                 "lieuFin": "UQTR",
                 "vehiFin":"Autobus",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"26 et 50"
             },
             "47":{
@@ -797,7 +797,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "Gilles-Lupien",
                 "vehiFin":"Autobus",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"25"
             },
             "51":{
@@ -1023,7 +1023,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "CV",
                 "vehiFin":"BOLT-3",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"4 et 11"
             },
             "11":{
@@ -1135,7 +1135,7 @@
                 "vehiAMidi":"Autobus",
                 "lieuFin": "CV",
                 "vehiFin":"BOLT-2",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"6, 10"
             },
             "18":{
@@ -1327,7 +1327,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "D55",
                 "vehiFin":"Autobus",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"16"
             },
             "30":{
@@ -1375,7 +1375,7 @@
                 "vehiAMidi":"",
                 "lieuFin": "TRO",
                 "vehiFin":"Autobus",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"6"
             }
             
@@ -1507,7 +1507,7 @@
                 "vehiAMidi":"BOLT-2",
                 "lieuFin": "Église SLF",
                 "vehiFin":"Autobus",
-                "ligne1":"13 : 5",
+                "ligne1":"13 et 5",
                 "ligne2":"12"
             },
             "9":{
@@ -1700,6 +1700,7 @@
             }
 
 }
+
 
 
 
