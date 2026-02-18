@@ -747,7 +747,7 @@
                 "heuMidiFin":"20:52",
                 "lieuMidiApr":"CV",
                 "vehiAMidi":"Autobus",
-                "lieuFin": "des Roselins, des prairies",
+                "lieuFin": "des Roselins",
                 "vehiFin":"Autobus",
                 "ligne1":"12",
                 "ligne2":"10"
@@ -1357,7 +1357,7 @@
                 "heuMidiFin":"24:46",
                 "lieuMidiApr":"",
                 "vehiAMidi":"",
-                "lieuFin": "des Roselins, des prairies",
+                "lieuFin": "des Roselins",
                 "vehiFin":"Autobus",
                 "ligne1":"11 et 4",
                 "ligne2":"10"
@@ -1489,7 +1489,7 @@
                 "heuMidiFin":"15:42",
                 "lieuMidiApr":"",
                 "vehiAMidi":"",
-                "lieuFin": "des Roselins, des prairies",
+                "lieuFin": "des Roselins",
                 "vehiFin":"Autobus",
                 "ligne1":"2",
                 "ligne2":"10"
@@ -1700,6 +1700,7 @@
             }
 
 }
+
 
 
 
