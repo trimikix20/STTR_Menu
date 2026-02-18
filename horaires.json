@@ -937,7 +937,7 @@
                 "vehiDep":"Autobus",
                 "lieuMidi": "CV",
                 "vehiMidi":"none",
-                "heuMidiDeb":"12:8",
+                "heuMidiDeb":"12:08",
                 "heuMidiFin":"13:14",
                 "lieuMidiApr":"",
                 "vehiAMidi":"",
@@ -1001,7 +1001,7 @@
                 "vehiDep":"Autobus",
                 "lieuMidi": "CV",
                 "vehiMidi":"none",
-                "heuMidiDeb":"11:2",
+                "heuMidiDeb":"11:02",
                 "heuMidiFin":"11:57",
                 "lieuMidiApr":"Fusey",
                 "vehiAMidi":"BOLT-3",
@@ -1018,7 +1018,7 @@
                 "lieuMidi": "CV",
                 "vehiMidi":"none",
                 "heuMidiDeb":"9:57",
-                "heuMidiFin":"11:2",
+                "heuMidiFin":"11:02",
                 "lieuMidiApr":"",
                 "vehiAMidi":"",
                 "lieuFin": "CV",
@@ -1060,7 +1060,7 @@
             },
             "13":{
                 "priseSer":"6:13",
-                "finSer": "16:4",
+                "finSer": "16:04",
                 "lieuDep":"TRO",
                 "vehiDep":"Autobus",
                 "lieuMidi": "UQTR",
@@ -1076,7 +1076,7 @@
             },
             "14":{
                 "priseSer":"6:34",
-                "finSer": "16:4",
+                "finSer": "16:04",
                 "lieuDep":"CV",
                 "vehiDep":"Autobus",
                 "lieuMidi": "UQTR",
@@ -1107,7 +1107,7 @@
                 "ligne2":"8"
             },
             "16":{
-                "priseSer":"9:8",
+                "priseSer":"9:08",
                 "finSer": "19:28",
                 "lieuDep":"UQTR",
                 "vehiDep":"BOLT-2",
@@ -1127,16 +1127,16 @@
                 "finSer": "21:58",
                 "lieuDep":"CV",
                 "vehiDep":"BOLT-3",
-                "lieuMidi": "Garage",
-                "vehiMidi":"BOLT-1 et l'autre, BOLT-3",
-                "heuMidiDeb":"13:20",
-                "heuMidiFin":"13:51 et une autre a 17:22 jusqu'à 18:37",
+                "lieuMidi": "Garage, CV",
+                "vehiMidi":"BOLT-1, BOLT-3",
+                "heuMidiDeb":"13:20, 17:22",
+                "heuMidiFin":"13:51, 18:37",
                 "lieuMidiApr":"TRO",
                 "vehiAMidi":"Autobus",
                 "lieuFin": "CV",
                 "vehiFin":"BOLT-2",
                 "ligne1":"13 : 5",
-                "ligne2":"6 et pour finir la 10"
+                "ligne2":"6, 10"
             },
             "18":{
                 "priseSer":"11:59",
@@ -1700,6 +1700,7 @@
             }
 
 }
+
 
 
 
