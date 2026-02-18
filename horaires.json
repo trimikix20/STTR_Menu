@@ -67,7 +67,7 @@
             "5":{
                 "priseSer":"5:49",
                 "finSer": "15:51",
-                "lieuDep":"terminus des légendes",
+                "lieuDep":"Légendes",
                 "vehiDep":"autobus",
                 "lieuMidi": "CV",
                 "vehiMidi":"none",
@@ -507,7 +507,7 @@
                 "heuMidiFin":"14:27",
                 "lieuMidiApr":"",
                 "vehiAMidi":"",
-                "lieuFin": "terminus des Légendes",
+                "lieuFin": "Légendes",
                 "vehiFin":"autobus",
                 "ligne1":"4 et 11",
                 "ligne2":"11 et 4"
@@ -811,7 +811,7 @@
                 "heuMidiFin":"21:57",
                 "lieuMidiApr":"",
                 "vehiAMidi":"",
-                "lieuFin": "terminus des Légendes",
+                "lieuFin": "Légendes",
                 "vehiFin":"autobus",
                 "ligne1":"4 et 11",
                 "ligne2":"4 et 11"
@@ -901,7 +901,7 @@
             "3":{
                 "priseSer":"5:49",
                 "finSer": "13:18",
-                "lieuDep":"terminus des légendes",
+                "lieuDep":"Légendes",
                 "vehiDep":"autobus",
                 "lieuMidi": "CV",
                 "vehiMidi":"none",
@@ -1341,7 +1341,7 @@
                 "heuMidiFin":"22:46",
                 "lieuMidiApr":"",
                 "vehiAMidi":"",
-                "lieuFin": "terminus des Légendes",
+                "lieuFin": "Légendes",
                 "vehiFin":"autobus",
                 "ligne1":"6",
                 "ligne2":"11 et 4"
@@ -1465,7 +1465,7 @@
             "6":{
                 "priseSer":"8:18",
                 "finSer": "19:33",
-                "lieuDep":"terminus des légendes",
+                "lieuDep":"Légendes",
                 "vehiDep":"autobus",
                 "lieuMidi": "CV",
                 "vehiMidi":"none",
@@ -1633,7 +1633,7 @@
                 "heuMidiFin":"16:47",
                 "lieuMidiApr":"",
                 "vehiAMidi":"",
-                "lieuFin": "terminus des Légendes",
+                "lieuFin": "Légendes",
                 "vehiFin":"autobus",
                 "ligne1":"25",
                 "ligne2":"4 et 11"
@@ -1700,6 +1700,7 @@
             }
 
 }
+
 
 
 
